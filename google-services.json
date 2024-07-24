@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996961155458",
+    "project_id": "ipray-daily",
+    "storage_bucket": "ipray-daily.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996961155458:android:2b3e0fc467e776c88a779b",
+        "android_client_info": {
+          "package_name": "com.brillianzhub.ipray"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996961155458-r9gtbau97siv2v34nmfjb1b6grha6178.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClRX5J2SJEMGe6nY4i9ZFImYIh_iDl-dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996961155458-r9gtbau97siv2v34nmfjb1b6grha6178.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
