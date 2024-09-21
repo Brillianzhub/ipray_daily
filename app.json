@@ -1,16 +1,20 @@
 {
   "expo": {
-    "name": "i-pray",
+    "name": "IPray",
     "slug": "i-pray",
-    "version": "1.0.0",
+    "version": "1.0.9",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "i-pray",
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#333333"
     },
     "ios": {
       "supportsTablet": true
@@ -19,7 +23,14 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "versionCode": 14,
+      "package": "com.brillianzhub.ipray",
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "READ_CALENDAR",
+        "WRITE_CALENDAR"
+      ]
     },
     "web": {
       "bundler": "metro",
@@ -27,10 +38,27 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router"
+      [
+        "@react-native-google-signin/google-signin"
+      ],
+      "expo-router",
+      [
+        "expo-calendar",
+        {
+          "calendarPermission": "The app needs to access your calendar."
+        }
+      ]
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "ab1d368c-8eb5-4166-ab6e-6173da98740c"
+      }
     }
   }
 }
