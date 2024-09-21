@@ -1,0 +1,332 @@
+[
+    {
+        "id": 1,
+        "name": "Genesis",
+        "category": "Old Testament"
+    },
+    {
+        "id": 2,
+        "name": "Exodus",
+        "category": "Old Testament"
+    },
+    {
+        "id": 3,
+        "name": "Leviticus",
+        "category": "Old Testament"
+    },
+    {
+        "id": 4,
+        "name": "Numbers",
+        "category": "Old Testament"
+    },
+    {
+        "id": 5,
+        "name": "Deuteronomy",
+        "category": "Old Testament"
+    },
+    {
+        "id": 6,
+        "name": "Joshua",
+        "category": "Old Testament"
+    },
+    {
+        "id": 7,
+        "name": "Judges",
+        "category": "Old Testament"
+    },
+    {
+        "id": 8,
+        "name": "Ruth",
+        "category": "Old Testament"
+    },
+    {
+        "id": 9,
+        "name": "1 Samuel",
+        "category": "Old Testament"
+    },
+    {
+        "id": 10,
+        "name": "2 Samuel",
+        "category": "Old Testament"
+    },
+    {
+        "id": 11,
+        "name": "1 Kings",
+        "category": "Old Testament"
+    },
+    {
+        "id": 12,
+        "name": "2 Kings",
+        "category": "Old Testament"
+    },
+    {
+        "id": 13,
+        "name": "1 Chronicles",
+        "category": "Old Testament"
+    },
+    {
+        "id": 14,
+        "name": "2 Chronicles",
+        "category": "Old Testament"
+    },
+    {
+        "id": 15,
+        "name": "Ezra",
+        "category": "Old Testament"
+    },
+    {
+        "id": 16,
+        "name": "Nehemiah",
+        "category": "Old Testament"
+    },
+    {
+        "id": 17,
+        "name": "Esther",
+        "category": "Old Testament"
+    },
+    {
+        "id": 18,
+        "name": "Job",
+        "category": "Old Testament"
+    },
+    {
+        "id": 19,
+        "name": "Psalms",
+        "category": "Old Testament"
+    },
+    {
+        "id": 20,
+        "name": "Proverbs",
+        "category": "Old Testament"
+    },
+    {
+        "id": 21,
+        "name": "Ecclesiastes",
+        "category": "Old Testament"
+    },
+    {
+        "id": 22,
+        "name": "Song of Solomon",
+        "category": "Old Testament"
+    },
+    {
+        "id": 23,
+        "name": "Isaiah",
+        "category": "Old Testament"
+    },
+    {
+        "id": 24,
+        "name": "Jeremiah",
+        "category": "Old Testament"
+    },
+    {
+        "id": 25,
+        "name": "Lamentations",
+        "category": "Old Testament"
+    },
+    {
+        "id": 26,
+        "name": "Ezekiel",
+        "category": "Old Testament"
+    },
+    {
+        "id": 27,
+        "name": "Daniel",
+        "category": "Old Testament"
+    },
+    {
+        "id": 28,
+        "name": "Hosea",
+        "category": "Old Testament"
+    },
+    {
+        "id": 29,
+        "name": "Joel",
+        "category": "Old Testament"
+    },
+    {
+        "id": 30,
+        "name": "Amos",
+        "category": "Old Testament"
+    },
+    {
+        "id": 31,
+        "name": "Obadiah",
+        "category": "Old Testament"
+    },
+    {
+        "id": 32,
+        "name": "Jonah",
+        "category": "Old Testament"
+    },
+    {
+        "id": 33,
+        "name": "Micah",
+        "category": "Old Testament"
+    },
+    {
+        "id": 34,
+        "name": "Nahum",
+        "category": "Old Testament"
+    },
+    {
+        "id": 35,
+        "name": "Habakkuk",
+        "category": "Old Testament"
+    },
+    {
+        "id": 36,
+        "name": "Zephaniah",
+        "category": "Old Testament"
+    },
+    {
+        "id": 37,
+        "name": "Haggai",
+        "category": "Old Testament"
+    },
+    {
+        "id": 38,
+        "name": "Zechariah",
+        "category": "Old Testament"
+    },
+    {
+        "id": 39,
+        "name": "Malachi",
+        "category": "Old Testament"
+    },
+    {
+        "id": 40,
+        "name": "Matthew",
+        "category": "New Testament"
+    },
+    {
+        "id": 41,
+        "name": "Mark",
+        "category": "New Testament"
+    },
+    {
+        "id": 42,
+        "name": "Luke",
+        "category": "New Testament"
+    },
+    {
+        "id": 43,
+        "name": "John",
+        "category": "New Testament"
+    },
+    {
+        "id": 44,
+        "name": "Acts",
+        "category": "New Testament"
+    },
+    {
+        "id": 45,
+        "name": "Romans",
+        "category": "New Testament"
+    },
+    {
+        "id": 46,
+        "name": "1 Corinthians",
+        "category": "New Testament"
+    },
+    {
+        "id": 47,
+        "name": "2 Corinthians",
+        "category": "New Testament"
+    },
+    {
+        "id": 48,
+        "name": "Galatians",
+        "category": "New Testament"
+    },
+    {
+        "id": 49,
+        "name": "Ephesians",
+        "category": "New Testament"
+    },
+    {
+        "id": 50,
+        "name": "Philippians",
+        "category": "New Testament"
+    },
+    {
+        "id": 51,
+        "name": "Colossians",
+        "category": "New Testament"
+    },
+    {
+        "id": 52,
+        "name": "1 Thessalonians",
+        "category": "New Testament"
+    },
+    {
+        "id": 53,
+        "name": "2 Thessalonians",
+        "category": "New Testament"
+    },
+    {
+        "id": 54,
+        "name": "1 Timothy",
+        "category": "New Testament"
+    },
+    {
+        "id": 55,
+        "name": "2 Timothy",
+        "category": "New Testament"
+    },
+    {
+        "id": 56,
+        "name": "Titus",
+        "category": "New Testament"
+    },
+    {
+        "id": 57,
+        "name": "Philemon",
+        "category": "New Testament"
+    },
+    {
+        "id": 58,
+        "name": "Hebrews",
+        "category": "New Testament"
+    },
+    {
+        "id": 59,
+        "name": "James",
+        "category": "New Testament"
+    },
+    {
+        "id": 60,
+        "name": "1 Peter",
+        "category": "New Testament"
+    },
+    {
+        "id": 61,
+        "name": "2 Peter",
+        "category": "New Testament"
+    },
+    {
+        "id": 62,
+        "name": "1 John",
+        "category": "New Testament"
+    },
+    {
+        "id": 63,
+        "name": "2 John",
+        "category": "New Testament"
+    },
+    {
+        "id": 64,
+        "name": "3 John",
+        "category": "New Testament"
+    },
+    {
+        "id": 65,
+        "name": "Jude",
+        "category": "New Testament"
+    },
+    {
+        "id": 66,
+        "name": "Revelation",
+        "category": "New Testament"
+    }
+]
